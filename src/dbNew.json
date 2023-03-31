@@ -1,0 +1,46 @@
+{
+  "mockData": [
+    {
+      "id": "roofing-1",
+      "title": "Roofing",
+      "description": "Built Up (NY); Flat (MI)",
+      "classCode": "238160",
+      "totalCoveragePercent": 0
+    },
+    {
+      "id": "roofing-2",
+      "title": "Roofing",
+      "description": "Commercial",
+      "classCode": "238160",
+      "totalCoveragePercent": 0
+    },
+    {
+      "id": "roofing-3",
+      "title": "Roofing",
+      "description": "All Kinds--Residential",
+      "classCode": "238160",
+      "totalCoveragePercent": 0
+    },
+    {
+      "id": "sheet-metal-work-1",
+      "title": "Sheet Metal Work",
+      "description": "Erection, Installation or Repair--Shop and Outside--Including Installation of Furnaces or Air Conditioning Systems--Employees Whose Regular Hourly Wage Equals or Exceeds $27.00 Per Hour--NOC",
+      "classCode": "238190",
+      "totalCoveragePercent": 0
+    },
+    {
+      "id": "sheet-metal-work-2",
+      "title": "Sheet Metal Work",
+      "description": "Erection, Installation or Repair--High Wage (CA)",
+      "classCode": "238190",
+      "totalCoveragePercent": 0
+    },
+    {
+      "id": "sheet-metal-work-3",
+      "title": "Sheet Metal Work",
+      "description": "Installation",
+      "classCode": "238190",
+      "totalCoveragePercent": 0
+    }
+  ]
+}
